@@ -228,6 +228,7 @@ html input {
 .main__products .products__list {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 @media (max-width: 1200px) {
   .main__products .products__list {
