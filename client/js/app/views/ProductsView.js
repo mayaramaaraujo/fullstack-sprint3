@@ -4,6 +4,7 @@ class ProductsView extends View {
   }
 
   template(data) {
-    // TODO: implementar
+    console.log(data.products)
+    return `<h1>hello </h1>`
   }
 }

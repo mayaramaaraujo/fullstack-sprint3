@@ -18,5 +18,4 @@ class Product {
   get price() {
     return this._price;
   }
-
 }
